@@ -50,7 +50,7 @@ http://0.0.0.0:5000
 
 Navigate to this URL in your web browser. You will be presented with an interface to upload a video for analysis. The system will process the video, perform face detection, recognition, tracking, and emotion analysis, and then display the results.
 
-Please refer to the "Images" folder to see the interface for Video Upload and Video Processing.
+Please refer to the "images" folder to see the interface for Video Upload and Video Processing.
 
 ### API Endpoints
 
