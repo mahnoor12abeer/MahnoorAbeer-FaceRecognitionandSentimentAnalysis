@@ -1,1 +1,2 @@
-#Face Recognition and Emotion Analysis API
+# Face Recognition and Emotion Analysis API
+This project implements a face detection, recognition, and tracking system, alongside real-time sentiment analysis on faces in a virtual meeting video environment. The sentiment analysis classifies facial attributes into seven emotions: anger, fear, neutral, sad, disgust, happy, and surprise. Furthermore, the project is equipped with a REST API server, implemented using FastAPI, that performs the aforementioned analyses on uploaded videos.
