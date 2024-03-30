@@ -1,0 +1,15 @@
+python-multipart
+fastapi
+uvicorn
+flask
+facenet-pytorch
+deepface
+opencv-python
+pillow
+torch
+torchvision
+scikit-learn
+pandas
+scikit-image
+lap
+filterpy
